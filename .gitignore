@@ -106,3 +106,4 @@ venv.bak/
 .vscode/
 PennFudanPed/*
 PennFudanPed.zip
+*.pth
